@@ -11,3 +11,15 @@
     border-bottom:var(--border-button);
     outline: none;
 }
+
+.button:active{
+    background-color: #ccc;
+}
+
+.button.double{
+    grid-column: span 2;
+}
+
+.button.triple{
+    grid-column:span 3;
+}
