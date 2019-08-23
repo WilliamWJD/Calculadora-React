@@ -58,7 +58,7 @@ export default class Calculator extends Component{
 
         if(n !== '.'){
             const i=this.state.current
-            const  newValue=parseFloat(displayValue)
+            const newValue=parseFloat(displayValue)
             const values=[...this.state.values]
             values[i]=newValue
             this.setState({values})
