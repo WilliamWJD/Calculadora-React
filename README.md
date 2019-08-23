@@ -1,5 +1,5 @@
 ## Calculadora - React
-Projeto desenvolvido durante o curso de React
+Projeto desenvolvido durante o curso de React </br></br>
 ![](./Calc.jpg)
 
 ## Rodando a aplicação
