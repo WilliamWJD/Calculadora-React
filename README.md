@@ -1,6 +1,6 @@
 ## Calculadora - React
-![](./Calc.jpg)
 Projeto desenvolvido durante o curso de React
+![](./Calc.jpg)
 
 ## Rodando a aplicação
 
